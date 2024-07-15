@@ -11,7 +11,7 @@ import SwiftUI
 struct filemanager_nscache_practiceApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DownloadingImageBc()
         }
     }
 }
